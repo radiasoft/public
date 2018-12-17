@@ -1,2 +1,3 @@
-# public
-This repo hosts the public Wiki for all things RadiaSoft
+## RadiaSoft is bringing computational science to the cloud.
+
+[Check out our public Wiki](https://github.com/radiasoft/public/wiki).
